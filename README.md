@@ -13,3 +13,5 @@ Skills: React / Js / HTML / CSS / Java / SpringBoot / MySQL
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiohdez-dev/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioHdezS)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/SergioHdezS)
